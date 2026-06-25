@@ -57,6 +57,16 @@
 - [贡献指南](CONTRIBUTING.md)：规则新增、修订与争议处理要求
 - [来源与版权说明](NOTICE.md)：参考资料、规则取舍和许可边界
 
+## 配套 AI Skills
+
+本项目的规则体系已经转化为可复用的 Codex Skill 与 Claude Code Skill，集中维护在 [hachiwar/codex-skills](https://github.com/hachiwar/codex-skills) 仓库中。
+
+- Codex Skill：[`chinese-document-style`](https://github.com/hachiwar/codex-skills/tree/main/chinese-document-style)
+- Claude Code Skill：[`claude-chinese-document-style`](https://github.com/hachiwar/codex-skills/tree/main/claude-chinese-document-style)
+- 安装方法、适用场景与调用示例：[中文文档风格与排版技能介绍](https://github.com/hachiwar/codex-skills/blob/main/docs/chinese-document-style.md)
+
+两个 Skill 将本项目的详细规范拆分为核心工作流与按需加载的参考资料，可用于审校学术报告、技术文档、README 和其他简体中文文档。Skill 的维护与版本更新在 `codex-skills` 仓库进行，本项目继续作为规范正文和规则依据。
+
 ## 核心规则示例
 
 | 类别 | 规范写法 | 不规范写法 |
