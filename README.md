@@ -16,7 +16,7 @@
 2. [yikeke/zh-style-guide：中文技术文档写作风格指南](https://github.com/yikeke/zh-style-guide)
 3. [Hindy Hong：写给大家看的中文排版指南](https://zhuanlan.zhihu.com/p/20506092)
 
-本项目不是上述资料的合并转载，而是基于逐条阅读、规则比较和重新表述形成的综合性规范。各来源的具体贡献、差异和版权信息见 [NOTICE.md](NOTICE.md)。
+本项目是基于逐条阅读、规则比较和重新表述形成的综合性规范。各来源的具体贡献、差异和版权信息见 [NOTICE.md](NOTICE.md)。
 
 ## 编制目的
 
@@ -154,7 +154,7 @@ Markdownlint、Vale、AutoCorrect 和 pangu.js 等工具可以辅助发现空格
 
 ## 致谢与参考来源
 
-本项目明确参考并感谢以下三个项目与文章：
+本项目参考并感谢以下三个项目与文章：
 
 1. [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)：提供了中英文空格、全角标点、数字与单位、专有名词大小写等基础规则；
 2. [yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide)：提供了技术文档语言风格、结构、标点、数字、列表、表格、链接、代码和命名等系统内容；
